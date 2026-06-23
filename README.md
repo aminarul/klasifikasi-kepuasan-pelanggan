@@ -162,11 +162,14 @@ Alasan pemilihan:
 
 ## 📋 Classification Report
 
-Tambahkan screenshot hasil classification report di sini.
+              precision    recall  f1-score   support
 
-```text
-Precision | Recall | F1-Score
-```
+           0       0.87      0.90      0.88     11713
+           1       0.86      0.82      0.84      9068
+
+    accuracy                           0.87     20781
+   macro avg       0.87      0.86      0.86     20781
+weighted avg       0.87      0.87      0.87     20781
 
 ---
 
